@@ -1,8 +1,12 @@
 /**
  * AnimatedGifEncoder
  * 
- * original source : J2ME Animated GIF encoder. (http://www.jappit.com/blog/2008/12/04/j2me-animated-gif-encoder/)
- * porting j2me to android : azki. (azki@azki.org)
+ * Original source : J2ME Animated GIF encoder. (http://www.jappit.com/blog/2008/12/04/j2me-animated-gif-encoder/)
+ * Original of Original : Class AnimatedGifEncoder. (http://www.java2s.com/Code/Java/2D-Graphics-GUI/AnimatedGifEncoder.htm)
+ * As for the original version, code is free for any kind of usages, but you must refer to the Unisys LZW patent for restrictions on use of the associated LZWEncoder class.
+ *
+ * No copyright asserted on the source code of this class. May be used for any purpose.
+ * Porting j2me to android : by azki. (azki@azki.org)
  */
 package net.daum.daca_ex.camera;
 
